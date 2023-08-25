@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mahajan</h1>
-<h3 align="center">A passionate React developer from India</h3>
+<h3 align="center">Diligent and passionate Software Developer with knowledge in Blockchain Application Development. A tech-savvy
+individual, I possess a natural curiosity for learning new technologies. With excellent communication skills, I am an
+enthusiastic learner who thrives on challenges and is committed to delivering exceptional results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitmahajan141&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitmahajan141" /> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **abhimahajan142001@gmail.com**
 
