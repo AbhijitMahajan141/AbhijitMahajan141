@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitmahajan141&" alt="abhijitmahajan141" /></p>
 
 <h4>ScreenShots and Videos of My Projects.</h4>
-<a href="https://drive.google.com/drive/folders/1Ye0HVwskQ3-dd0QOsMKuD6Gd0n-F-hB2?usp=drive_link" target="blank">My Project ScreenShots</a>
+<a href="https://drive.google.com/drive/folders/1Ye0HVwskQ3-dd0QOsMKuD6Gd0n-F-hB2?usp=drive_link" target="_blank">My Project ScreenShots</a>
